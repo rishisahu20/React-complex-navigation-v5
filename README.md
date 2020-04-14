@@ -1,4 +1,4 @@
-# React-complex-navigation-v5
+# React-complex-navigation-v5 (Boiler Plate)
 
 # A simple integration of Complex navigation (Stack, Drawer, BottomTab) with an Auth Flow and Redux, in react native in V5
 
