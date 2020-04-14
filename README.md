@@ -1,11 +1,10 @@
 # React-complex-navigation-v5
 
-A simple integration of Complex navigation (Stack, Drawer, BottomTab) with an Auth Flow and Redux, in react native in V5
-A boiler plate to use complex navigation in react native all together i.e (Stack, Drawer, BottomTab) navigators.
+# A simple integration of Complex navigation (Stack, Drawer, BottomTab) with an Auth Flow and Redux, in react native in V5
 
 As in V5, it's totally different from the previous versions of navigation
 
-Introduction about navigation (V5)
+# Introduction about navigation (V5)
 So Recently React Native has upgraded Navigation API
 It has undergone some major changes
 The new API comes with dynamic components. and made the navigation part more dynamic.
